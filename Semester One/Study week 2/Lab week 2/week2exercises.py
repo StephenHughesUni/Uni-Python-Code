@@ -2,8 +2,8 @@
 
 # Question 1  - Name and address on different
 print()
-print("Stephen Hughes - X00179579")
-print("260 Clonard Road Crumlin")
+print("Bob Billy - X00179579")
+print("234 - Fake Address - Yes")
 print()
 
 # Question 2 -  Python Code as seen on Lab Exercise
@@ -60,4 +60,4 @@ print("If an adventurer returns from a successful quest and buys each of\nhis 6 
 
 # Question 12 - Write print to calculate above.
 print()
-print("The ammount of coffee purchased would be:", 6*3)
+print("The amount of coffee purchased would be:", 6*3)
